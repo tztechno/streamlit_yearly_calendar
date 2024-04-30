@@ -2,10 +2,4 @@
 
 https://app-yearly-calendar-dfginfnqzbt6yy7ruaj2ez.streamlit.app/
 
-
-local action succeed.
-
-push succeed.
-
-publish succeed.
-
+ https://tztechno.github.io/streamlit_yearly_calendar/calendar.html
