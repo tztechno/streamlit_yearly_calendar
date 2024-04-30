@@ -1,6 +1,6 @@
 # streamlit_yearly_calendar
 
-local success
+local action success
 
 push failure
 
