@@ -1,7 +1,7 @@
 # streamlit_yearly_calendar
 
-local action success
+local action succeed.
 
-push failure
+push succeed.
 
 publish failure
